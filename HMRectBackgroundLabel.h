@@ -1,5 +1,5 @@
 //
-//  RectBackgroundLabel.h
+//  HMRectBackgroundLabel.h
 //
 //  Created by Brandon Butler on 9/20/11.
 //  
@@ -7,7 +7,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface RectBackgroundLabel : UILabel {
+@interface HMRectBackgroundLabel : UILabel {
 	NSInteger cornerRadius;
 	UIColor *rectColor;
 }
