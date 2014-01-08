@@ -1,14 +1,14 @@
 //
-//  HMRectBackgroundLabel.h
+//  HMFRectBackgroundLabel.h
 //
 //  Created by Brandon Butler on 9/20/11.
 //  
 //
 
-#import "HMRectBackgroundLabel.h"
+#import "HMFRectBackgroundLabel.h"
 #import <QuartzCore/QuartzCore.h>
 
-@implementation HMRectBackgroundLabel
+@implementation HMFRectBackgroundLabel
 
 @synthesize cornerRadius;
 @synthesize rectColor;
